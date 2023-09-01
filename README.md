@@ -25,4 +25,4 @@ So, to keep things clean and precise I am including only the source code element
 
 # Code Signing, Defects, Bugs, Missing Features, other misc issues. 
 
-I am aware that the application is not signed by a fancy smancy certificate that most applications have, with me also being the little guy I can't just flip a switch and make one for myself either - I am exploring a solution to this (which will be added to an issue btw if you wanna help me out) - #issue1
+I am aware that the application is not signed by a fancy smancy certificate that most applications have, with me also being the little guy I can't just flip a switch and make one for myself either - I am exploring a solution to this (which will be added to an issue btw if you wanna help me out) - #issue 1
