@@ -27,7 +27,7 @@ So, to keep things clean and precise I am including only the source code element
 
 I am aware that the application is not signed by a fancy smancy certificate that most applications have, with me also being the little guy I can't just flip a switch and make one for myself either - I am exploring a solution to this (which will be added to an issue btw if you wanna help me out)
 
-I am aware of defects with the use of CefSharp the good news is I included Gecko as well it is just really OLLLLLLLLLLLLLD like FF Version 45 old (and the project was abandonded for .net) 
+I am aware of defects with the use of CefSharp the good news is I included Gecko as well it is just really OLLLLLLLLLLLLLD like FF Version 45 old (and the project was abandonded for .net) (Cef Sharp may not initally be available, eventually Gecko will be excluded)
 
 A few bugs with the tab browsing experience are known, and there is also some issues with updating to the latest version which has to do with the code signing fiasco. 
 
