@@ -17,7 +17,9 @@ Primarily I have a few thoughts in mind in this adoption of the new project:
 
 # Current Progress
 
-As you can tell its pretty empty in here, that isn't by mistake - I privatized my previous versions of the project and am swiftly typing away at the rewrite. 
+As you can tell its pretty empty in here, that isn't by mistake - I privatized my previous versions of the project (Krypto Browser, BeffsBrowser) and am swiftly typing away at the rewrite. 
+
+.NETBrowse is just a temporary name, and is not the final name when that comes to play - I will move this over to its own organization account here on Github
 
 # What is available
 
